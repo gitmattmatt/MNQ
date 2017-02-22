@@ -1,7 +1,7 @@
 # MNQ
 # Matt 'n' Quynn's collaboritive project<BR>
 
-This is the repository that Matt and Quynn can colloborate on like minded projects.<BR>
+This is the repository that Matt and Quynn can collaborate on like minded projects.<BR>
 The idea is to have a place where we can go to work on ideas and develop tools.<BR>
 The structure of the way Github works is important for developers of all sorts.<BR>
 When code is created, changed, added to, or edited we can work together as a team to continually improve it.<BR>
