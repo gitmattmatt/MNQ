@@ -12,7 +12,12 @@ OK we should establish protocols and follow them until they don't suit us and th
 (If better way to flow is discovered we suggest changes to the protocol in a branch off the master)<BR>
   2: If we have new stuff to create or add just go right to the branch and start working otherwise<BR>
   start to look at pull requests and approve/edit/comment/merge stuff. <BR>
-  3: (Describe the workflow of other disciplines here) <BR>
+  3: Goto ACTUAL_PROJECTS branch and open a project we are working on<BR>
+  4: Make an edit or change or add to the content and committ changes to a new branch (called patch something) + start pull.<BR>
+  5: Review pulls and view changes, approve if ok and comment on what/why changes are being made and merged. (Yes delete branch when done)<BR>
+  
+  
+  (Describe the workflow of other disciplines here) <BR>
 <BR>
 <BR>
 <BR>
